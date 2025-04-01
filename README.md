@@ -58,7 +58,7 @@ It uses **Redux** for state management. It manages:
 
 
 
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/prakhar5100/Momentum?utm_source=oss&utm_medium=github&utm_campaign=prakhar5100%2FMomentum&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 
 
 ![image](https://github.com/user-attachments/assets/72c590cc-3bc1-4586-b562-764731f031e9)
