@@ -56,13 +56,7 @@ It uses **Redux** for state management. It manages:
 - **Tasks** (CRUD operations and categorization)
 - **API Calls** (handled using Redux Thunk for async requests to Groq API)
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-Enjoy using **Momentum** to boost your productivity! 🚀
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/prakhar5100/Momentum?utm_source=oss&utm_medium=github&utm_campaign=prakhar5100%2FMomentum&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
